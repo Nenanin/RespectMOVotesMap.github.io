@@ -1,5 +1,5 @@
 {
-    "name": "reprojection-wgs84",
+    "name": "vector-esri",
     "dependencies": {
       "ol": "10.7.0"
     },
